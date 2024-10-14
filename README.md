@@ -1,7 +1,8 @@
 # SmartApply: AI-Powered Resume Analyzer and Application Generator
 
 **SmartApply** is an AI-based tool designed to simplify job applications. It allows users to upload their resume and a job portal link, then generates personalized recommendations, such as a cold email, suggested skills, relevant projects, and resume improvement tips.
-Access it here: [link](to be added)
+
+Access it here: [Smart-Apply](https://smart-apply.streamlit.app/)
 
 ## Features
 - **Resume Text Extraction:** Automatically extracts text from a PDF resume.
